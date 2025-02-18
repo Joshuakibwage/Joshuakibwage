@@ -2,8 +2,6 @@
 
 🚀 Aspiring Frontend Developer | 🎨 Passionate about React & Tailwind CSS 
 
-💡 About Me:
-
     🖥️ I specialize in React, JavaScript, and Tailwind CSS
     🌱 Currently improving my state management skills 
     🎯 Seeking a frontend developer role to grow and contribute
