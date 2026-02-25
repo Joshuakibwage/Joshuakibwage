@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EF7F7&center=true&vCenter=true&width=900&lines=Frontend+Engineer+%7C+React+%7C+Next.js;SEO+%26+Performance+Focused;Building+Scalable+Web+Applications" />
 </p>
 
-<h6 align="center">Frontend Engineer specializing in React, Next.js, and Performance-Driven Web Applications.</h6>
+<h4 align="center">Frontend Engineer specializing in React, Next.js, and Performance-Driven Web Applications.</h4>
 
 ###
 
