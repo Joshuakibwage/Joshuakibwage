@@ -98,7 +98,7 @@
 
 ###
 
-<p align="left">• 🔭 Currently building performance-driven web applications with React & Next.js<br><br>• 🌱 Learning SQL • System Design • Advanced SEO • Web Performance Optimization<br><br>• 👨‍💻 Portfolio: https://kibwage-joshua.vercel.app/<br><br>• 💬 Ask me about React Architecture, Frontend Performance, SEO Strategy, UI Systems, Debugging<br><br>• 📫 Reach me at: joshuakibwage23@gmail.com<br><br>• ⚡ Fun fact: I enjoy debugging complex frontend issues more than most people enjoy weekends 😄</p>
+<p align="left">• 🔭 Currently building performance-driven web applications with React & Next.js<br><br>• 🌱 Learning SQL • System Design • Advanced SEO • Web Performance Optimization<br><br>• 💬 Ask me about React Architecture, Frontend Performance, SEO Strategy, UI Systems, Debugging<br><br>• 📫 Reach me at: joshuakibwage23@gmail.com<br><br>• ⚡ Fun fact: I enjoy debugging complex frontend issues more than most people enjoy weekends 😄</p>
 
 ###
 
