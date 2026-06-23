@@ -48,7 +48,7 @@ ever read a word of copy.
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,inkscape" />
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,inkscape,canva" />
 
 <br><br>
 
@@ -62,6 +62,14 @@ ever read a word of copy.
 
 <img src="https://skillicons.dev/icons?i=git,vercel,vitest" />
 
+</div>
+
+<br>
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshuakibwage&theme=react-dark&bg_color=00000000&color=D9A441&line=D9A441&point=ffffff&hide_border=true" alt="Contribution activity graph" />
 </div>
 
 <br>
