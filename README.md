@@ -15,7 +15,7 @@
 
 <br>
 
-> Building toward the intersection of code and design — interfaces engineered with the
+> Building toward the intersection of code and design interfaces engineered with the
 > same care for typography, color, and composition that goes into the code underneath them.
 
 <br>
@@ -23,7 +23,7 @@
 ## About
 
 I'm a front-end engineer working primarily in **React**, **Next.js**, and **TypeScript**,
-alongside the ALX Graphic Design program — learning how hierarchy, contrast, and
+alongside the ALX Graphic Design program learning how hierarchy, contrast, and
 intentional typography shape the way people read and trust a product before they
 ever read a word of copy.
 
