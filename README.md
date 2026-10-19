@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Joshua Kibwage — Kaizen: Front-end heavy full-stack developer" width="100%" />
+<img src="./assets/hero.svg" alt="Joshua Kibwage, Kaizen: Front-end heavy full-stack developer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=Next.js+%C2%B7+React+%C2%B7+TypeScript;Fast%2C+polished+web+experiences;Open+to+freelance+and+remote+roles" alt="Typing banner" />
 
@@ -69,39 +69,27 @@ I'm a front-end heavy full-stack developer in Nairobi, Kenya, with a graphic des
 ![Claude Code](https://img.shields.io/badge/Claude_Code-1E293B?style=flat-square&logo=anthropic&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-1E293B?style=flat-square&logo=trello&logoColor=0052CC)
 
-**Also:** Vitest · Supertest · Storybook · Auth.js · Paystack · Stripe · M-Pesa · Shopify · Cloudinary · SendGrid · Cal.com · SEO · Accessibility (WCAG 2.2 AA) · Performance optimization · Graphic design
+**Also:** Vitest · Supertest · Storybook · Auth.js · Cloudinary · SendGrid · SEO · Accessibility (WCAG 2.2 AA) · Performance optimization · Graphic design
 
 ---
+
+## Featured Projects
 
 ## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://sigmachauffeurs.com">Sigma Chauffeurs</a></h3>
-      Multi-city luxury chauffeur platform covering 9 US cities, with city landing pages, fleet pages, and a Sanity-powered blog.<br /><br />
-      <sub><b>Next.js · TypeScript · Tailwind · Sanity</b></sub><br /><br />
-      <a href="https://sigmachauffeurs.com">Live</a>
+      <h3><a href="https://github.com/Joshuakibwage/booking-platform">Multi-Tenant Booking Platform</a></h3>
+      Booking and scheduling platform where multiple businesses run their own branded booking pages. <i>In development.</i><br /><br />
+      <sub><b>YOUR_STACK · pnpm · Turborepo</b></sub><br /><br />
+      <a href="https://github.com/Joshuakibwage/booking-platform">Code</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://emeraldcitylimos.com">Emerald City Limos</a></h3>
-      Fast, SEO-focused chauffeur site built with Astro and a shared Sanity content model.<br /><br />
-      <sub><b>Astro · Sanity · SEO</b></sub><br /><br />
-      <a href="https://emeraldcitylimos.com">Live</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://a1charterspnw.com">A1 Charters PNW</a></h3>
-      Full homepage and design system with an Obsidian and Champagne Gold palette, structured data, and scroll-driven animations.<br /><br />
-      <sub><b>Next.js · shadcn/ui · Sanity</b></sub><br /><br />
-      <a href="https://a1charterspnw.com">Live</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="YOUR_EMBER_REPO_URL">Ember &amp; Bean</a></h3>
+      <h3><a href="https://github.com/Joshuakibwage/ember-and-bean">Ember &amp; Bean</a></h3>
       Full-stack coffee shop app with authentication, admin dashboard CRUD, and Paystack checkout for pickup or delivery.<br /><br />
       <sub><b>Next.js · TypeScript · MongoDB · Auth.js</b></sub><br /><br />
-      <a href="YOUR_EMBER_LIVE_URL">Live</a> · <a href="YOUR_EMBER_REPO_URL">Code</a>
+      <a href="https://github.com/Joshuakibwage/ember-and-bean">Code</a>
     </td>
   </tr>
 </table>
