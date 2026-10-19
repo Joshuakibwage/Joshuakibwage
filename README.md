@@ -75,8 +75,6 @@ I'm a front-end heavy full-stack developer in Nairobi, Kenya, with a graphic des
 
 ## Featured Projects
 
-## Featured Projects
-
 <table>
   <tr>
     <td width="50%" valign="top">
