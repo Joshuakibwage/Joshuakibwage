@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a front-end heavy full-stack developer in Nairobi, Kenya, with a graphic design background, so I care as much about how a product feels as how it's built. I ship production sites for service businesses across the US and I'm building my own freelance web studio. I live by **kaizen**: small, steady improvements every day. Open to **freelance projects** and **remote full-time roles**.
+I'm a front-end heavy full-stack developer in Nairobi, Kenya, with a graphic design background, so I care as much about how a product feels as how it's built. I've shipped production sites for service businesses across the US, and I'm happy working independently or inside a team. I live by **kaizen**: small, steady improvements every day. Open to **freelance projects** and **remote full-time roles**.
 
 ---
 
