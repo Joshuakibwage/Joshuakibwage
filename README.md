@@ -99,7 +99,6 @@ I'm a front-end heavy full-stack developer in Nairobi, Kenya, with a graphic des
 - Building a **multi-tenant booking platform** (pnpm + Turborepo monorepo)
 - Learning **SQL, MySQL, and PostgreSQL**
 - Growing my **Figma and design systems** skills
-- Growing my freelance web studio
 
 ---
 
