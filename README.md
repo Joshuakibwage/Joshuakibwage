@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://joshua-kibwage.vercel.app)
 [![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuakibwage23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-kibwage)
-[![Upwork](https://img.shields.io/badge/Upwork-1E293B?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_URL)
 
 </div>
 
