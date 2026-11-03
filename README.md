@@ -11,12 +11,49 @@
 </div>
 
 ---
+## Professional Identity
 
-## About
+> *"I design it, I build it, and I keep making it better."*
 
-I'm a front-end heavy full-stack developer in Nairobi, Kenya, with a graphic design background, so I care as much about how a product feels as how it's built. I've shipped production sites for service businesses across the US, and I'm happy working independently or inside a team. I live by **kaizen**: small, steady improvements every day. Open to **freelance projects** and **remote full-time roles**.
+**Role:** Front-end heavy full-stack developer
+
+**Background:** Graphic design → front-end engineering, so I care about how a product feels as much as how it's built
+
+**Specialty:** Turning designs into fast, accessible, polished interfaces with Next.js, React, and TypeScript
+
+**Proven in:** Production sites for service businesses across the US, plus full-stack builds with authentication, payments, and admin dashboards
+
+**Goal:** Join a remote team (or take on freelance projects) where design and engineering work together
 
 ---
+
+## How I Think
+
+**Kaizen: small steps, every day.** I ship in small increments and improve each one. Steady progress beats rare big rewrites.
+
+- **Design before code:** I understand the user, the layout, and the system before I open the editor
+- **Outcome first:** I start from what the business needs, then work backwards
+- **Own it end to end:** From Figma to deployment, I take responsibility for the result with minimal supervision
+- **Communicate early:** Clear async updates keep work moving across time zones
+
+---
+
+## Development Philosophy
+
+**Craft and Architecture**
+- Component-driven UI: small, reusable, documented in Storybook
+- Design tokens and consistent systems over one-off styling
+- Strict TypeScript and clean, modular structure
+
+**Quality and Performance**
+- Accessibility to WCAG 2.2 AA, built in from the start
+- Fast by default: image optimization, lean bundles, SEO-ready pages
+- Tested with Vitest and Supertest; CI/CD through GitHub Actions
+
+**Working With People**
+- Honest estimates and plain-language updates for non-technical clients
+- Readable code and clear READMEs, so the next developer isn't lost
+- Always learning, and sharing what I learn
 
 ## Tech Stack
 
@@ -95,11 +132,14 @@ I'm a front-end heavy full-stack developer in Nairobi, Kenya, with a graphic des
 
 ## Currently
 
-- Building a **multi-tenant booking platform** (pnpm + Turborepo monorepo)
-- Learning **SQL, MySQL, and PostgreSQL**
-- Growing my **Figma and design systems** skills
+**Building**
+- A **multi-tenant booking platform**: pnpm + Turborepo monorepo, with branded booking pages for each business
 
----
+**Learning: Technical**
+- **SQL, MySQL, and PostgreSQL**: relational design, queries, and moving from MongoDB-style thinking to schemas
+- **Linux and the command line**: file permissions, users and groups, shell scripting, and system administration basics
+- **Deployment and server fundamentals**: so I can ship and debug full-stack apps with confidence
+
 
 ## Work With Me
 
