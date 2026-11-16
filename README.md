@@ -11,49 +11,9 @@
 </div>
 
 ---
-## Professional Identity
+I'm **Joshua**, a front-end engineer who enjoys turning ideas and designs into useful, well-crafted web applications.
 
-> *"I design it, I build it, and I keep making it better."*
-
-**Role:** Front-end heavy full-stack developer
-
-**Background:** Graphic design → front-end engineering, so I care about how a product feels as much as how it's built
-
-**Specialty:** Turning designs into fast, accessible, polished interfaces with Next.js, React, and TypeScript
-
-**Proven in:** Production sites for service businesses across the US, plus full-stack builds with authentication, payments, and admin dashboards
-
-**Goal:** Join a remote team (or take on freelance projects) where design and engineering work together
-
----
-
-## How I Think
-
-**Kaizen: small steps, every day.** I ship in small increments and improve each one. Steady progress beats rare big rewrites.
-
-- **Design before code:** I understand the user, the layout, and the system before I open the editor
-- **Outcome first:** I start from what the business needs, then work backwards
-- **Own it end to end:** From Figma to deployment, I take responsibility for the result with minimal supervision
-- **Communicate early:** Clear async updates keep work moving across time zones
-
----
-
-## Development Philosophy
-
-**Craft and Architecture**
-- Component-driven UI: small, reusable, documented in Storybook
-- Design tokens and consistent systems over one-off styling
-- Strict TypeScript and clean, modular structure
-
-**Quality and Performance**
-- Accessibility to WCAG 2.2 AA, built in from the start
-- Fast by default: image optimization, lean bundles, SEO-ready pages
-- Tested with Vitest and Supertest; CI/CD through GitHub Actions
-
-**Working With People**
-- Honest estimates and plain-language updates for non-technical clients
-- Readable code and clear READMEs, so the next developer isn't lost
-- Always learning, and sharing what I learn
+I work primarily with React, Next.js, and TypeScript, and I'm expanding into back-end engineering, Linux, and DevOps. I'm particularly interested in understanding how applications work beyond the interface, from APIs and databases to deployment and infrastructure.
 
 ## Tech Stack
 
@@ -109,14 +69,14 @@
 
 ---
 
-## Featured Projects
+## Featured Project
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Joshuakibwage/booking-platform">Multi-Tenant Booking Platform</a></h3>
       Booking and scheduling platform where multiple businesses run their own branded booking pages. <i>In development.</i><br /><br />
-      <sub><b>YOUR_STACK · pnpm · Turborepo</b></sub><br /><br />
+      <sub><b>Nextjs · Tanstack Query · Express · TypeScript · pnpm · Turborepo</b></sub><br /><br />
       <a href="https://github.com/Joshuakibwage/booking-platform">Code</a>
     </td>
     <td width="50%" valign="top">
